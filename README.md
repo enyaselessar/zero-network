@@ -18,7 +18,7 @@ wget https://raw.githubusercontent.com/dxzenith/zero-network/main/contract.sh &&
   Create an empty hardhat.config.js
   Quit
 ```
-- Choose `Create a TypeScript project` option then press `Enter` 3 times
+- Choose `Create a TypeScript project` option then press `Enter` 4 times
 - Done ✅
 ---
 - Make sure to follow [ZunXBT](ZunXBT) on X
