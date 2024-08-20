@@ -32,7 +32,7 @@ npm install -D @matterlabs/hardhat-zksync-solc > /dev/null 2>&1
 npm install dotenv > /dev/null 2>&1
 npx hardhat
 echo
-read -p "Enter your private key: " PRIVATE_KEY
+read -p "Enter your private key (without 0x): " PRIVATE_KEY
 echo
 echo "PRIVATE_KEY=$PRIVATE_KEY" > .env
 
