@@ -7,7 +7,7 @@
 - If any of them take long time to open then try to open these in incognito tab, it will open very fast
 - Enter the below command to deploy
 ```bash
-https://raw.githubusercontent.com/dxzenith/zero-network/main/contract.sh && chmod +x contract.sh && ./contract.sh
+wget https://raw.githubusercontent.com/dxzenith/zero-network/main/contract.sh && chmod +x contract.sh && ./contract.sh
 ```
 - Done ✅
 ---
