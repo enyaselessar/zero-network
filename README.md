@@ -9,6 +9,16 @@
 ```bash
 wget https://raw.githubusercontent.com/dxzenith/zero-network/main/contract.sh && chmod +x contract.sh && ./contract.sh
 ```
+- In the middle of the code, it will show something like this
+```bash
+? What do you want to do? … 
+  Create a JavaScript project
+▸ Create a TypeScript project
+  Create a TypeScript project (with Viem)
+  Create an empty hardhat.config.js
+  Quit
+```
+- Choose `Create a TypeScript project` option then press `Enter` 3 times
 - Done ✅
 ---
 - Make sure to follow [ZunXBT](ZunXBT) on X
